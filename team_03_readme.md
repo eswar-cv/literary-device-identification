@@ -27,6 +27,7 @@ sklearn
 tqdm
 regex
 matplotlib
+spacy
 ```
 
 ### Pre-Requisites
