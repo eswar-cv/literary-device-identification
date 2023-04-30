@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+tensorflow
+pickle
+fasttext
+sklearn
+tqdm
+regex
+matplotlib
+spacy

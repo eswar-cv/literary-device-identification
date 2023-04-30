@@ -1,0 +1,312 @@
+{
+  "glove.42B.300d": {
+    "LogisticRegression": 0.5377041843812933,
+    "DecisionTreeClassifier": 0.6742000447527411,
+    "RandomForestClassifier": 0.7534123965092862,
+    "SVC_Linear": 0.533452673976281,
+    "SVC_Poly": 0.7240993510852539,
+    "SVC": 0.8001790109644216,
+    "KNeighborsClassifier": 0.6721861714029984,
+    "LinearSVC": 0.5379279480868203
+  },
+  "glove.6B.100d": {
+    "LogisticRegression": 0.539718057731036,
+    "DecisionTreeClassifier": 0.6652494965316625,
+    "RandomForestClassifier": 0.7435667934660998,
+    "SVC_Linear": 0.5403893488476169,
+    "SVC_Poly": 0.6652494965316625,
+    "SVC": 0.7578876706198254,
+    "KNeighborsClassifier": 0.6538375475497874,
+    "LinearSVC": 0.539941821436563
+  },
+  "glove.6B.200d": {
+    "LogisticRegression": 0.5359140747370776,
+    "DecisionTreeClassifier": 0.6708435891698367,
+    "RandomForestClassifier": 0.7267845155515775,
+    "SVC_Linear": 0.5430745133139405,
+    "SVC_Poly": 0.7030655627657194,
+    "SVC": 0.7713134929514432,
+    "KNeighborsClassifier": 0.6061758782725442,
+    "LinearSVC": 0.5383754754978742
+  },
+  "glove.6B.300d": {
+    "LogisticRegression": 0.5453121503692101,
+    "DecisionTreeClassifier": 0.6659207876482435,
+    "RandomForestClassifier": 0.7326023718952785,
+    "SVC_Linear": 0.5462072051913179,
+    "SVC_Poly": 0.7162676213918102,
+    "SVC": 0.7867531886328037,
+    "KNeighborsClassifier": 0.5887223092414411,
+    "LinearSVC": 0.5424032221973596
+  },
+  "glove.6B.50d": {
+    "LogisticRegression": 0.5283061087491608,
+    "DecisionTreeClassifier": 0.6603266950100694,
+    "RandomForestClassifier": 0.7220854777355113,
+    "SVC_Linear": 0.5314388006265384,
+    "SVC_Poly": 0.6061758782725442,
+    "SVC": 0.6815842470351309,
+    "KNeighborsClassifier": 0.6328037592302529,
+    "LinearSVC": 0.5283061087491608
+  },
+  "glove.840B.300d": {
+    "LogisticRegression": 0.5471022600134258,
+    "DecisionTreeClassifier": 0.6737525173416872,
+    "RandomForestClassifier": 0.7657194003132692,
+    "SVC_Linear": 0.5549339897068696,
+    "SVC_Poly": 0.7305884985455359,
+    "SVC": 0.8171850525844708,
+    "KNeighborsClassifier": 0.6218393376594317,
+    "LinearSVC": 0.5466547326023719
+  },
+  "glove.twitter.27B.100d": {
+    "LogisticRegression": 0.5240545983441486,
+    "DecisionTreeClassifier": 0.6589841127769076,
+    "RandomForestClassifier": 0.730364734840009,
+    "SVC_Linear": 0.5227120161109868,
+    "SVC_Poly": 0.6419780711568583,
+    "SVC": 0.7243231147907809,
+    "KNeighborsClassifier": 0.6169165361378385,
+    "LinearSVC": 0.5238308346386216
+  },
+  "glove.twitter.27B.200d": {
+    "LogisticRegression": 0.5159991049451779,
+    "DecisionTreeClassifier": 0.6616692772432311,
+    "RandomForestClassifier": 0.7173864399194451,
+    "SVC_Linear": 0.5269635265159991,
+    "SVC_Poly": 0.6692772432311479,
+    "SVC": 0.7379727008279258,
+    "KNeighborsClassifier": 0.5811143432535243,
+    "LinearSVC": 0.515327813828597
+  },
+  "glove.twitter.27B.25d": {
+    "LogisticRegression": 0.5081673752517342,
+    "DecisionTreeClassifier": 0.6567464757216379,
+    "RandomForestClassifier": 0.7095547102260014,
+    "SVC_Linear": 0.514880286417543,
+    "SVC_Poly": 0.5446408592526292,
+    "SVC": 0.6408592526292235,
+    "KNeighborsClassifier": 0.5978966211680465,
+    "LinearSVC": 0.5083911389572612
+  },
+  "glove.twitter.27B.50d": {
+    "LogisticRegression": 0.5204743790557171,
+    "DecisionTreeClassifier": 0.6518236742000447,
+    "RandomForestClassifier": 0.7104497650481092,
+    "SVC_Linear": 0.521369433877825,
+    "SVC_Poly": 0.5999104945177892,
+    "SVC": 0.681136719624077,
+    "KNeighborsClassifier": 0.631461176997091,
+    "LinearSVC": 0.5204743790557171
+  },
+  "fasttext": {
+    "LogisticRegression": 0.5453121503692101,
+    "DecisionTreeClassifier": 0.6777802640411725,
+    "RandomForestClassifier": 0.7435667934660998,
+    "SVC_Linear": 0.5430745133139405,
+    "SVC_Poly": 0.5757440143208772,
+    "SVC": 0.7569926157977176,
+    "KNeighborsClassifier": 0.6860595211456701,
+    "LinearSVC": 0.5426269859028866
+  },
+  "glove 42B 300d": {
+    "LogisticRegression": 0.5377041843812933,
+    "DecisionTreeClassifier": 0.6742000447527411,
+    "RandomForestClassifier": 0.7534123965092862,
+    "SVC_Linear": 0.533452673976281,
+    "SVC_Poly": 0.7240993510852539,
+    "SVC": 0.8001790109644216,
+    "KNeighborsClassifier": 0.6721861714029984,
+    "LinearSVC": 0.5379279480868203
+  },
+  "glove 6B 100d": {
+    "LogisticRegression": 0.539718057731036,
+    "DecisionTreeClassifier": 0.6652494965316625,
+    "RandomForestClassifier": 0.7435667934660998,
+    "SVC_Linear": 0.5403893488476169,
+    "SVC_Poly": 0.6652494965316625,
+    "SVC": 0.7578876706198254,
+    "KNeighborsClassifier": 0.6538375475497874,
+    "LinearSVC": 0.539941821436563
+  },
+  "glove 6B 200d": {
+    "LogisticRegression": 0.5359140747370776,
+    "DecisionTreeClassifier": 0.6708435891698367,
+    "RandomForestClassifier": 0.7267845155515775,
+    "SVC_Linear": 0.5430745133139405,
+    "SVC_Poly": 0.7030655627657194,
+    "SVC": 0.7713134929514432,
+    "KNeighborsClassifier": 0.6061758782725442,
+    "LinearSVC": 0.5383754754978742
+  },
+  "glove 6B 300d": {
+    "LogisticRegression": 0.5453121503692101,
+    "DecisionTreeClassifier": 0.6659207876482435,
+    "RandomForestClassifier": 0.7326023718952785,
+    "SVC_Linear": 0.5462072051913179,
+    "SVC_Poly": 0.7162676213918102,
+    "SVC": 0.7867531886328037,
+    "KNeighborsClassifier": 0.5887223092414411,
+    "LinearSVC": 0.5424032221973596
+  },
+  "glove 6B 50d": {
+    "LogisticRegression": 0.5283061087491608,
+    "DecisionTreeClassifier": 0.6603266950100694,
+    "RandomForestClassifier": 0.7220854777355113,
+    "SVC_Linear": 0.5314388006265384,
+    "SVC_Poly": 0.6061758782725442,
+    "SVC": 0.6815842470351309,
+    "KNeighborsClassifier": 0.6328037592302529,
+    "LinearSVC": 0.5283061087491608
+  },
+  "glove 840B 300d": {
+    "LogisticRegression": 0.5471022600134258,
+    "DecisionTreeClassifier": 0.6737525173416872,
+    "RandomForestClassifier": 0.7657194003132692,
+    "SVC_Linear": 0.5549339897068696,
+    "SVC_Poly": 0.7305884985455359,
+    "SVC": 0.8171850525844708,
+    "KNeighborsClassifier": 0.6218393376594317,
+    "LinearSVC": 0.5466547326023719
+  },
+  "glove twitter 27B 100d": {
+    "LogisticRegression": 0.5240545983441486,
+    "DecisionTreeClassifier": 0.6589841127769076,
+    "RandomForestClassifier": 0.730364734840009,
+    "SVC_Linear": 0.5227120161109868,
+    "SVC_Poly": 0.6419780711568583,
+    "SVC": 0.7243231147907809,
+    "KNeighborsClassifier": 0.6169165361378385,
+    "LinearSVC": 0.5238308346386216
+  },
+  "glove twitter 27B 200d": {
+    "LogisticRegression": 0.5159991049451779,
+    "DecisionTreeClassifier": 0.6616692772432311,
+    "RandomForestClassifier": 0.7173864399194451,
+    "SVC_Linear": 0.5269635265159991,
+    "SVC_Poly": 0.6692772432311479,
+    "SVC": 0.7379727008279258,
+    "KNeighborsClassifier": 0.5811143432535243,
+    "LinearSVC": 0.515327813828597
+  },
+  "glove twitter 27B 25d": {
+    "LogisticRegression": 0.5081673752517342,
+    "DecisionTreeClassifier": 0.6567464757216379,
+    "RandomForestClassifier": 0.7095547102260014,
+    "SVC_Linear": 0.514880286417543,
+    "SVC_Poly": 0.5446408592526292,
+    "SVC": 0.6408592526292235,
+    "KNeighborsClassifier": 0.5978966211680465,
+    "LinearSVC": 0.5083911389572612
+  },
+  "glove twitter 27B 50d": {
+    "LogisticRegression": 0.5204743790557171,
+    "DecisionTreeClassifier": 0.6518236742000447,
+    "RandomForestClassifier": 0.7104497650481092,
+    "SVC_Linear": 0.521369433877825,
+    "SVC_Poly": 0.5999104945177892,
+    "SVC": 0.681136719624077,
+    "KNeighborsClassifier": 0.631461176997091,
+    "LinearSVC": 0.5204743790557171
+  },
+  "glove_42B_300d": {
+    "LogisticRegression": 0.5377041843812933,
+    "DecisionTreeClassifier": 0.6742000447527411,
+    "RandomForestClassifier": 0.7534123965092862,
+    "SVC_Linear": 0.533452673976281,
+    "SVC_Poly": 0.7240993510852539,
+    "SVC": 0.8001790109644216,
+    "KNeighborsClassifier": 0.6721861714029984,
+    "LinearSVC": 0.5379279480868203
+  },
+  "glove_6B_100d": {
+    "LogisticRegression": 0.539718057731036,
+    "DecisionTreeClassifier": 0.6652494965316625,
+    "RandomForestClassifier": 0.7435667934660998,
+    "SVC_Linear": 0.5403893488476169,
+    "SVC_Poly": 0.6652494965316625,
+    "SVC": 0.7578876706198254,
+    "KNeighborsClassifier": 0.6538375475497874,
+    "LinearSVC": 0.539941821436563
+  },
+  "glove_6B_200d": {
+    "LogisticRegression": 0.5359140747370776,
+    "DecisionTreeClassifier": 0.6708435891698367,
+    "RandomForestClassifier": 0.7267845155515775,
+    "SVC_Linear": 0.5430745133139405,
+    "SVC_Poly": 0.7030655627657194,
+    "SVC": 0.7713134929514432,
+    "KNeighborsClassifier": 0.6061758782725442,
+    "LinearSVC": 0.5383754754978742
+  },
+  "glove_6B_300d": {
+    "LogisticRegression": 0.5453121503692101,
+    "DecisionTreeClassifier": 0.6659207876482435,
+    "RandomForestClassifier": 0.7326023718952785,
+    "SVC_Linear": 0.5462072051913179,
+    "SVC_Poly": 0.7162676213918102,
+    "SVC": 0.7867531886328037,
+    "KNeighborsClassifier": 0.5887223092414411,
+    "LinearSVC": 0.5424032221973596
+  },
+  "glove_6B_50d": {
+    "LogisticRegression": 0.5283061087491608,
+    "DecisionTreeClassifier": 0.6603266950100694,
+    "RandomForestClassifier": 0.7220854777355113,
+    "SVC_Linear": 0.5314388006265384,
+    "SVC_Poly": 0.6061758782725442,
+    "SVC": 0.6815842470351309,
+    "KNeighborsClassifier": 0.6328037592302529,
+    "LinearSVC": 0.5283061087491608
+  },
+  "glove_840B_300d": {
+    "LogisticRegression": 0.5471022600134258,
+    "DecisionTreeClassifier": 0.6737525173416872,
+    "RandomForestClassifier": 0.7657194003132692,
+    "SVC_Linear": 0.5549339897068696,
+    "SVC_Poly": 0.7305884985455359,
+    "SVC": 0.8171850525844708,
+    "KNeighborsClassifier": 0.6218393376594317,
+    "LinearSVC": 0.5466547326023719
+  },
+  "glove_twitter_27B_100d": {
+    "LogisticRegression": 0.5240545983441486,
+    "DecisionTreeClassifier": 0.6589841127769076,
+    "RandomForestClassifier": 0.730364734840009,
+    "SVC_Linear": 0.5227120161109868,
+    "SVC_Poly": 0.6419780711568583,
+    "SVC": 0.7243231147907809,
+    "KNeighborsClassifier": 0.6169165361378385,
+    "LinearSVC": 0.5238308346386216
+  },
+  "glove_twitter_27B_200d": {
+    "LogisticRegression": 0.5159991049451779,
+    "DecisionTreeClassifier": 0.6616692772432311,
+    "RandomForestClassifier": 0.7173864399194451,
+    "SVC_Linear": 0.5269635265159991,
+    "SVC_Poly": 0.6692772432311479,
+    "SVC": 0.7379727008279258,
+    "KNeighborsClassifier": 0.5811143432535243,
+    "LinearSVC": 0.515327813828597
+  },
+  "glove_twitter_27B_25d": {
+    "LogisticRegression": 0.5081673752517342,
+    "DecisionTreeClassifier": 0.6567464757216379,
+    "RandomForestClassifier": 0.7095547102260014,
+    "SVC_Linear": 0.514880286417543,
+    "SVC_Poly": 0.5446408592526292,
+    "SVC": 0.6408592526292235,
+    "KNeighborsClassifier": 0.5978966211680465,
+    "LinearSVC": 0.5083911389572612
+  },
+  "glove_twitter_27B_50d": {
+    "LogisticRegression": 0.5204743790557171,
+    "DecisionTreeClassifier": 0.6518236742000447,
+    "RandomForestClassifier": 0.7104497650481092,
+    "SVC_Linear": 0.521369433877825,
+    "SVC_Poly": 0.5999104945177892,
+    "SVC": 0.681136719624077,
+    "KNeighborsClassifier": 0.631461176997091,
+    "LinearSVC": 0.5204743790557171
+  }
+}
